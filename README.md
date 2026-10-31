@@ -2,7 +2,7 @@
 
 Une application web PHP moderne inspirée de TMDB pour explorer l'univers du cinéma. Ce projet intègre une architecture solide avec un proxy PHP sur mesure pour communiquer de manière sécurisée avec une API externe.
 
-![Interface de CINÉDB](https://githubusercontent.com)
+![Interface de CINÉDB](moviedb26.png)
 
 ## 🚀 Fonctionnalités
 
